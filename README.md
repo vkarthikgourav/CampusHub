@@ -1,5 +1,1 @@
-# Campus_Management_System
-# Campus_Management_System
-# CMS
-# CMS
-# Campus_Management_System
+# CampusHub
